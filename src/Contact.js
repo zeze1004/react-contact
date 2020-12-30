@@ -14,7 +14,7 @@ export default class Contact extends React.Component {
 			selectedKey: -1,
 			keyword: '',
 			ContactData: [{
-					name: "pitch",
+					name: "peach",
 					phone: "010-2345-2314" },
 				{
 					name: "egg",
